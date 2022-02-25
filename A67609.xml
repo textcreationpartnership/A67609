@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of Mr. Pryn's refutation of the University of Oxfords plea sent to a friend in a second letter from Oxford.</title>
+            <author>Waring, Robert, 1614-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67609</idno>
+            <idno type="STC">Wing W859</idno>
+            <idno type="STC">ESTC R14363</idno>
+            <idno type="EEBO-CITATION">12255482</idno>
+            <idno type="OCLC">ocm 12255482</idno>
+            <idno type="VID">57393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 905:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of Mr. Pryn's refutation of the University of Oxfords plea sent to a friend in a second letter from Oxford.</title>
+                  <author>Waring, Robert, 1614-1658.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Robert Waring. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  University of Oxfords plea, refuted.</term>
+               <term>University of Oxford --  Controversial literature.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57393:1"/>
+            <pb facs="tcp:57393:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF M<hi rend="sup">r</hi> 
+               <hi>PRYN'S</hi> REFUTATION OF THE Vniverſity of <hi>Oxfords</hi> Plea. <hi>Sent to a Friend in a ſecond Letter from</hi> OXFORD.</p>
+            <figure>
+               <figDesc>seal of the University of Oxford</figDesc>
+               <head>ACADEMIA OXONIENSIS</head>
+               <q>SAPIENTIA ET FELICITATE</q>
+            </figure>
+            <p>Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:57393:2"/>
+            <pb n="1" facs="tcp:57393:2"/>
+            <head>An Account of Mr. <hi>Prins</hi> Refutation of the Vniverſity of <hi>Oxfords</hi> Plea.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N your laſt you ſeeme to wonder at, and accuſe our ſilence, in that neither I, who am more particularly concern'd, nor any one elſe amongſt us hath all this while an<g ref="char:EOLhyphen"/>ſwered thoſe Papers of Mr. <hi>Prin's,</hi> which he hath ſet forth againſt my <hi>Letter</hi> of the <hi>Privileges of the Univerſity,</hi> ſo that we may be thought, either hitherto unjuſtly to have claimed thoſe <hi>Privileges,</hi> or at leaſt by not vindicating them, to be guilty of the neglect of them our ſelves, and ſo to lye under the ſame crime, which we charge upon others. True it is, Sir, ſome there are, that may interpret it as an <hi>Argument</hi> of the badneſs of our <hi>Cauſe,</hi> (which our friends, perhaps, will impute to the <hi>negligence</hi> of our <hi>Patrones</hi>) Such eſpe<g ref="char:EOLhyphen"/>cially, who being pre-poſſeſt with paſſions and intereſts, eaſily ſuffer the balance of their judgments to be weighed down with Mr. <hi>Prin's Anſwers,</hi> which though of them<g ref="char:EOLhyphen"/>ſelves very light, and of no weight, yet having the ad<g ref="char:EOLhyphen"/>vantage of mens particular hopes and fears added to
+<pb n="2" facs="tcp:57393:3"/>them, may turn the ſcales. Yet, I ſhall ſhew you that we neither want a good Cauſe, nor are wanting to it, where there is any conſiderable oppoſition made againſt it. And to this purpoſe for your and others ſatisfaction, I ſhal give you a brief account (not troubling my ſelf to ſet down, or you, to apply <hi>Anſwers</hi> to his ſeveral pre<g ref="char:EOLhyphen"/>tenſions (as being unwilling to engage my ſelf in an un<g ref="char:EOLhyphen"/>neceſſary ſervice) I ſay it ſhal be my task to give you the reaſons) why we anſwer'd him not. And when I have done this, I make no queſtion, but 'twill be thought ſuf<g ref="char:EOLhyphen"/>ficiently <hi>anſwered,</hi> even by our not <hi>anſwering</hi> of him, and our ſilence will ſeem the beſt <hi>Confutation.</hi>
+            </p>
+            <p>Theſe <hi>reaſons,</hi> that you may have the leſſe trouble, may be reduced to two Heads, The one taken from <hi>his parti<g ref="char:EOLhyphen"/>cular performance in this his Anſwer:</hi> The ſecond from the <hi>general reputation this man hath among us.</hi>
+            </p>
+            <p>For the firſt, the <hi>particularity of his performance</hi> in this his anſwer, I ſhal be able, I think, to contrive all that is neceſſary to be ſaid into few words.</p>
+            <p n="1">1. That the whole <hi>ſupellex</hi> of matter out of Books and Records which he there makes uſe of, came to his hands from the invaded ſequeſtred papers of my <hi>Lord of Canterbury,</hi> and are, with ſome others of <hi>Lord Cott.</hi> &amp;c. the greateſt part of the ſubſtance on which he hath lived, and wrote books without number for theſe ſix or ſeven years. 2. That theſe are but the notes of his <hi>Lordſhips Counſel,</hi> and the ſtory of the paſſages of that debate at <hi>Hampton-court</hi> about the <hi>Archiepiſcopal</hi> power of <hi>Viſiting</hi> the <hi>Univerſities.</hi> Wherein 'tis acknowledged, that the <hi>King,</hi> as things were then repreſented, did judge on the <hi>Arch-Biſhops</hi> ſide. And though I might ſay to that mat<g ref="char:EOLhyphen"/>ter, 1. That the opinions of learned men did not all agree
+<pb n="3" facs="tcp:57393:3"/>that the <hi>Arch-Biſhops</hi> pretenſions were true, til the <hi>King,</hi> who was acknowledged to have power to endulge or reſtore that <hi>privilege</hi> to him, was pleaſed to judge on his ſide, and ſo to inſtate him in the power: And 2. That the <hi>Univerſity</hi> of <hi>Cambridge</hi> is affirm'd to have been re<g ref="char:EOLhyphen"/>ſolv'd to traverſe that plea, and try it again, before they would ſubmit to that <hi>Viſitation:</hi> And 3. That even <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> it ſelf, which was ſo much obliged to that <hi>Arch-Bi<g ref="char:EOLhyphen"/>ſhop,</hi> did plead againſt it, and conceiv'd it an invaſion of their <hi>Privileges,</hi> yet ſhall I not have the leaſt need to look this way, in rendring the reaſon why we did not think fit to anſwer Mr. <hi>Prin;</hi> but onely obſerve from hence, that what Mr. <hi>Prin</hi> hath brought, being all gathered together on that one deſigne to make good the <hi>Arch-Biſhops Viſi<g ref="char:EOLhyphen"/>tation,</hi> cannot be imagined to give a ful impartial view of the whole matter, the <hi>Kings</hi> right of <hi>Viſiting</hi> (which is now our whole matter of enquiry) being not ſo much as queſtioned, or debated in thoſe notes from whence all M. <hi>Prins</hi> ſtock is borrowed.</p>
+            <p>In the third place, I am willing to paſſe over M. <hi>Prins</hi> miſtakes in making uſe of theſe notes; yet can hardly chooſe but give you a taſte, by mentioning one of them, as <hi>Pag.</hi> 36. where inſtead of the <hi>Arch-Biſhops Viſiting jure eccleſeſiae ſuae Metropoliticae, &amp; non per poteſtatem le<g ref="char:EOLhyphen"/>gatinam</hi> he reads in perfect current <hi>non-ſence, &amp; non per poteſtatem legitimam,</hi> wherein if a man ſhould take his word, he muſt be bound to confeſſe, that what the <hi>Arch-Biſhop</hi> doth in this or the like Viſitation, is not by any <hi>legal</hi> or <hi>legitimate power,</hi> which to have done, ſhal at ano<g ref="char:EOLhyphen"/>ther time, perhaps, when it wil ſerve M. <hi>Prins</hi> turn, be an invaſion of the fundamental laws and liberties of the Subject in the <hi>Arch-Biſhop.</hi> A miſtake about the pitch of
+<pb n="4" facs="tcp:57393:4"/>that which I have heard mention'd of him in his <hi>Romes Maſter-piece,</hi> where he renders theſe words <hi>[Judica<g ref="char:EOLhyphen"/>vimus actutum favorabile ſeſe interpoſuiſſe numen] [We judged that a ſafe and favourable deity had interpoſed it ſelfe]</hi> as if <hi>actutum</hi> were cut aſunder into <hi>ac</hi> and <hi>tutum,</hi> and the <hi>copula ac</hi> conſtrued, as if it were after, not before <hi>tutum.</hi> And another of the ſame mould was long ſince his tranſlation of <hi>voluntas Dei beneplaciti</hi> in the <hi>Lambeth Articles, by the will of the well-pleaſed God,</hi> or ſomewhat, I remember, to that purpoſe.</p>
+            <p>In the fourth place, I ſhall not need diſpute the truth of any or all his allegations, but from all together de<g ref="char:EOLhyphen"/>duce this ſtate of the buſineſſe between us: That to the right of <hi>Viſiting the Univerſity,</hi> Foure pretenders there have been at ſeverall times. 1. The <hi>Biſhop</hi> of the <hi>Dioceſſe.</hi> 2. The <hi>Arch-Biſhop</hi> of the <hi>Province.</hi> 3. The <hi>Pope</hi> and his <hi>Legats.</hi> 4. The <hi>King,</hi> and thoſe which were enabled thereto by <hi>Commiſsion</hi> from him. The <hi>Biſhops</hi> rights and claims are long ſince laid down, all that looks that way, being ſo many years paſt, as the times whilſt this place was in the Dioceſe of the <hi>Biſhop</hi> of <hi>Lincolne,</hi> and 'tis a ſtrange argument by which Maſter <hi>Prin</hi> concludes the contrary, <hi>viz.</hi> [<hi>That his juriſdiction continued till the</hi> 12. <hi>yeare of King Charles</hi>] becauſe, ſaith he, in the <hi>Kings Decree</hi> at <hi>Hampton-court,</hi> there were theſe words, [<hi>Decla<g ref="char:EOLhyphen"/>ramus quod univerſitates praedictae per Epiſcopos &amp; Archi<g ref="char:EOLhyphen"/>diaconos in poſterum non viſitentur, p.</hi> 40.] as if the wri<g ref="char:EOLhyphen"/>ting <hi>in poſterum</hi> in great letters, were ſufficient to con<g ref="char:EOLhyphen"/>clude that 'twas ſo till that time: Whereas 'tis cleare by the Decree, <hi>p.</hi> 38. that that was a caution put in, in juſt care of the Univerſity, that this ſentence, or declaration of the <hi>Archbiſhops right,</hi> ſhould not <hi>in futuro extendi ad
+<pb n="5" facs="tcp:57393:4"/>Epiſcopos, &amp;c.</hi> and ſo farther prejudice the <hi>Univerſity.</hi> Then for the <hi>Popes</hi> and his <hi>Legats</hi> that never was ac<g ref="char:EOLhyphen"/>knowledged ſince the abrogation of all forrein juriſdi<g ref="char:EOLhyphen"/>ction here in the Reign of <hi>Hen.</hi> 8. and is clearly excluded by ſeverall <hi>Statutes</hi> of the Land. As for the <hi>Arch-biſhops Rights</hi> they have been urged, and pleaded, and oppoſed, and yet perhaps prevailed ſometimes againſt the preten<g ref="char:EOLhyphen"/>ſions of the <hi>Univerſities</hi> exemption. And becauſe I will not ſpeak of anything that may bear a Controverſie, I wil not examine the truth of that, whether the <hi>Arch-biſhop</hi> had that power or no, which he appears by ſome <hi>Records</hi> ſomtimes to have exerciſed; but being content for once to take all for granted which can poſſibly bear a diſpute, I ſhall only adde that it is alſo clear, 1. That <hi>Arch-biſhop Arundells viſitation</hi> (which is the main pregnant Teſtimony in that matter) was part of his <note n="a" place="margin">Cancellario U<g ref="char:EOLhyphen"/>niverſitatis Can<g ref="char:EOLhyphen"/>tabrig: Elienſis Dioeceſis, noſtrae. Provinciae Cant. <hi>p. 14.</hi> Nos in progreſſu viſitationis no<g ref="char:EOLhyphen"/>ſtrae Metropol: in dictâ Dioeceſi exercendâ vos &amp; dictam Univer<g ref="char:EOLhyphen"/>ſit: &amp;c. <hi>ib:</hi> Cu<g ref="char:EOLhyphen"/>ſtodi Coll: Trin: Cant: Elienſis Dioeceſis. <hi>p. 17.</hi>
+               </note> 
+               <hi>Provinciall viſitation,</hi> taken in as any other Pariſh in the Province. 2. And by conſequence that it was an <hi>Eccleſiaſticall vi<g ref="char:EOLhyphen"/>ſitation,</hi> and ſuch as the <hi>Biſhops</hi> of the <hi>Dioceſſe</hi> had alſo before the <hi>Univerſity</hi> was exempted from them, and this will appear by the mentions of <note n="b" place="margin">Facturi &amp; re<g ref="char:EOLhyphen"/>cepturi quod Ca<g ref="char:EOLhyphen"/>nonicis convenit inſtitutis, <hi>p. 17.</hi> &amp; obedientiam recepit Canon: <hi>Ib:</hi> receptâ obe<g ref="char:EOLhyphen"/>dientiâ Canoni<g ref="char:EOLhyphen"/>câ &amp; ſingu<g ref="char:EOLhyphen"/>lis, &amp;c. quae in viſitationi<g ref="char:EOLhyphen"/>bus cjuſmodi de jure fuerint re<g ref="char:EOLhyphen"/>quiſita. <hi>p. 20.</hi>
+               </note> 
+               <hi>Canonica inſtituta, &amp; obedientia,</hi> by the expreſſe mention of <hi>jure ſuo metro<g ref="char:EOLhyphen"/>politico,</hi> and <hi>in formâ juris Eccleſiaſtici,</hi> by which his vi<g ref="char:EOLhyphen"/>ſitation was performed; and if againſt this it be obje<g ref="char:EOLhyphen"/>cted that it extended to the viſiting the <hi>Univerſity, as an Univerſity,</hi> yet all that can be argued from thence is only this, that the <hi>Eccleſiaſticall</hi> power was then farther <hi>ex<g ref="char:EOLhyphen"/>tended,</hi> then it hath been ſince the <hi>reſtraints</hi> (as partly ap<g ref="char:EOLhyphen"/>pears by this, that till <hi>Henry</hi> the eights time the <hi>Foun<g ref="char:EOLhyphen"/>ders</hi> being <hi>Lay-men</hi> did generally appoint <hi>Biſhops</hi> to be the <hi>Viſitors</hi> of their <hi>Colledges</hi>) not that it was a <hi>civill</hi> ju<g ref="char:EOLhyphen"/>riſdiction, and ſo this belongs not, nor can with any co<g ref="char:EOLhyphen"/>lour
+<pb n="6" facs="tcp:57393:5"/>be applied to the <hi>Viſitation</hi> now ſpoken of, which hath by the <hi>Commiſsion</hi> power to <hi>hear and determine of breaches againſt the Laws of the Land, &amp;c.</hi> and ſo is per<g ref="char:EOLhyphen"/>fectly <hi>civill.</hi>
+            </p>
+            <p n="4">4. That whatſoever juriſdiction or power of viſiting was, on is in the <hi>Arch-biſhop</hi> of <hi>Canterbury,</hi> doth in time of <hi>vacancy</hi> reſide in the <hi>King,</hi> and conſequently, that ſince Mr. <hi>Pryn</hi> and his friends have been ſo ſuccesful in their endevours, as to leave that Chair <hi>void</hi> ſo long, 'tis not imaginable that any ſuch power, pretended to belong to the <hi>Arch-biſhop,</hi> ſhould be any where now but in the <hi>King.</hi> And ſo ſtil all this refutation of our Plea apparently belongs nothing to it, becauſe ſuppoſing all to be true that is here pretended (of the <hi>Arch-biſhops</hi> power, when there was an <hi>Arch-biſhop</hi>) yet when <hi>Epiſco<g ref="char:EOLhyphen"/>pacy</hi> it ſelf is by him that <hi>refutes</hi> us, acknowledg'd to be taken away, and to us, that acknowledge not that, yet 'tis viſible that there is no <hi>Arch-biſhop</hi> of <hi>Canterbury</hi> li<g ref="char:EOLhyphen"/>ving, nor pretence of <hi>Commiſsion</hi> from him, but on the other ſide that all his power in the <hi>vacancy</hi> is divolv'd to the King, 'tis then about the pitch of one of Mr. <hi>Pryn's</hi> arguments, <hi>i.e.</hi> little leſſe then fury to pretend againſt the <hi>Kings</hi> ſole Viſitation (at this time aſſerted by the <hi>U<g ref="char:EOLhyphen"/>niverſity</hi>) only from this proof, that there was once in the <hi>Arch-biſhop</hi> ſome kind of right of ſome kind of Viſi<g ref="char:EOLhyphen"/>tation.</p>
+            <p>The three former pretenſions being thus plainly ſuper<g ref="char:EOLhyphen"/>ſeded, the <hi>Biſhops and the Popes in integrum,</hi> and con<g ref="char:EOLhyphen"/>feſtly, and the <hi>Arch-biſhops</hi> ſo alſo at this time, when there is no <hi>Arch-biſhop</hi> of this Province, nor divolution of his power, in this matter, to any but the <hi>King,</hi> It fol<g ref="char:EOLhyphen"/>lows 1. that the 3 firſt things which Mr. <hi>Pryn</hi> undertakes
+<pb n="7" facs="tcp:57393:5"/>to prove, [1. <hi>That the Univerſity was anciently under the Juriſdiction of the Biſhop of</hi> Lincoln <hi>as Dioeceſan,</hi> 2. <hi>That it was till this Parliament under the juriſdiction and viſita<g ref="char:EOLhyphen"/>tion of the Arch-biſhop of</hi> Canterbury <hi>as Metropolitan.</hi> 3. <hi>That the Pope by his Legate hath viſited both the Uni<g ref="char:EOLhyphen"/>verſities</hi>] are directly and viſibly faln to nothing; and for the 4 thing, That <hi>there be particular Viſitors of Col<g ref="char:EOLhyphen"/>leges appointed by the Founders to whom the viſitation of thoſe belongs, and not to the King only,</hi> that is as little to this purpoſe (unleſſe it be to prove that they may not in that other reſpect ſubmit to this <hi>viſitation</hi>) The debate or queſtion being only of the <hi>Univerſity,</hi> which is a ſeve<g ref="char:EOLhyphen"/>ral Corporation and Foundation diſtinct from the <hi>ſeve<g ref="char:EOLhyphen"/>ral Colleges:</hi> and ſo likewiſe for the 5, <hi>[That the Univer<g ref="char:EOLhyphen"/>ſities exemptions were procured from Popes, and not from Kings of England]</hi> That, if it were granted, is as of litle force to conclude againſt us, becauſe the <hi>exemptions</hi> which he means were only exemptions from the <hi>Arch-biſhops Metropolitical viſitation,</hi> from which if we pre<g ref="char:EOLhyphen"/>tended no <hi>exemption</hi> at all, yet were we in as good an e<g ref="char:EOLhyphen"/>ſtate as we would wiſh for our preſent plea, becauſe now in the vacancy that <hi>Archiepiſcopal</hi> is ſwallowed up in the <hi>King,</hi> and when it was in the <hi>rivulet,</hi> was yet alwaies (ſince the Reformation) content to acknowledge this <hi>fountain.</hi>
+            </p>
+            <p>And then <hi>ſecondly,</hi> it follows as naturally as any thing can, that the <hi>Kings</hi> pretenſion remains the only one ima<g ref="char:EOLhyphen"/>ginable at <hi>this time;</hi> and againſt that, (or for any other at any time but the <hi>Arch-biſhops</hi>) there is no appearance of plea or proof ſo much as offered by Mr. <hi>Pryn.</hi> All which we that ſaw, could not permit our ſelves to be provoked by the ſhallowneſs of that one proof (from
+<pb n="8" facs="tcp:57393:6"/>the pretended <hi>Archiepiſcopal</hi> power) to embroyl our ſelves in any farther contention, or to think his <hi>refuta<g ref="char:EOLhyphen"/>tion</hi> worth <hi>refuting,</hi> any more then (we are told) the Committee themſelves would hearken to it, when he of<g ref="char:EOLhyphen"/>fer'd that to their ears which here he hath done to our o<g ref="char:EOLhyphen"/>ther ſenſe. Nor ſhould I now have ſaid thus much to it, did I not <hi>ſubmit</hi> to your <hi>judgment</hi> (who demand it of me) blindly, and to the <hi>denying</hi> of my own.</p>
+            <p>Now for the ſecond, <hi>the generall reputation this man hath among us,</hi> If we behold him (not as a <hi>man,</hi> or as one degraded by this <hi>Univerſity,</hi> but) as a Writer, and view him as he is drawn out by himſelf in his <hi>Books,</hi> we look upon him as one from the beginning very confident and ready to undertake and manage any Cauſe in any facul<g ref="char:EOLhyphen"/>ty, and to maintain it by what Arguments he pleaſeth, having a ſtrange dexterity wherein he goes beyond all the Artificers of the age, to prove his <hi>concluſion</hi> by <hi>me<g ref="char:EOLhyphen"/>dium's</hi> moſt directly contrary to it, and to diſguiſe his greateſt enemies into as fair a ſet of correſpondents and friends, as he hath any; to deal with <hi>Objections</hi> as ill ha<g ref="char:EOLhyphen"/>bits of body do with <hi>Phyſick,</hi> turn all into the nouriſh<g ref="char:EOLhyphen"/>ment of the prevalent humour. Such Topicks he uſed, when from my <hi>Lord of Canterburies Diary,</hi> he reſolved to conclude his reproach and infamy, and gather thence a ſufficient matter for a Charge to invade his <hi>reputation,</hi> if not his <hi>life;</hi> Whereas, in all the important and conſi<g ref="char:EOLhyphen"/>derable parts of that, it breaths out nothing but a moſt ſweet favour to all that read it, ſo far that an <hi>Independent</hi> long ſince challeng'd Mr. <hi>Pryn</hi> to ſhew any <hi>Presbyterian</hi> alive comparable to that image there naturally drawn of that <hi>Prelate;</hi> ſo hath he converted <hi>hony</hi> into <hi>poyſon,</hi> and hath ſought to blaſt, at leaſt to taint <hi>this garden of ſpices</hi>
+               <pb n="9" facs="tcp:57393:6"/>with that <hi>venome</hi> he ſuckt thence, and that <hi>poyſon</hi> which was his own <hi>foam</hi> he drops upon the flowers, and would have the Reader believe 'twas bred there. I ſhal trouble you with but one <hi>inſtance</hi> more (in ſtead of as many in the <hi>Bullion</hi> as he hath written Volumes, or in the <hi>coyn</hi> al<g ref="char:EOLhyphen"/>moſt as there be <hi>leaves</hi> in thoſe <hi>volumes</hi>) &amp; that is out of a <hi>Book</hi> of his, entitled, ROMES MASTER-PIECE. And becauſe the reputation of thoſe, who ought to be moſt pretious to us, is ſo much concern'd in it, I will give it you a little at large. The ſubject of that <hi>Book</hi> is ſome <hi>Letters</hi> ſent by Sir <hi>William Boſwell's</hi> care to the <hi>Arcbb: of Canterb:</hi> wherein he tels him of a deep Plot to bring in Popery into this <hi>Kingdom,</hi> and mentions the principall Agitators of it; <hi>Senior Con the Popes Legate,</hi> and divers others, what waies they went to bring about their de<g ref="char:EOLhyphen"/>ſigne, and as matters grew on, what reſolutions they had taken up. And in brief he that ſhal read the <hi>Letters</hi> with his own eyes, and not through Maſter <hi>Pryn's</hi> ſpectacles, and, laying aſide his <hi>Comment,</hi> look impartially on the <hi>Text,</hi> will clearly diſcern theſe two ſpeciall truths there, 1. That the <hi>Papiſts</hi> were fully ſatisfied that there was no working upon the <hi>King</hi> to gain His Conſent, and there<g ref="char:EOLhyphen"/>fore reſolv'd that He ſhould be taken out of the way, preſuming that they might then, through the better af<g ref="char:EOLhyphen"/>fections of the <hi>Queen,</hi> and the tender age of the young <hi>Prince,</hi> with more eaſe compaſſe their purpoſe. 2. That the <hi>Arch-biſhop</hi> was to be dealt with in the ſame manner, being ſo obſtinate in his way, that <hi>Senior Con</hi> could ne<g ref="char:EOLhyphen"/>ver in all his time get liberty of any acceſſe to him, or once to enter any <hi>Diſcourſse</hi> with him, (which particular is moſt notoriouſly known to be true by all that knew either the <hi>Court</hi> or <hi>Lambeth</hi> at that time.) Theſe two
+<pb n="10" facs="tcp:57393:7"/>things I ſay (of the <hi>Kings</hi> impregnable reſolution to keep to the <hi>Proteſtant Religion,</hi> and my <hi>Lord of Canterbury's</hi> obſtinacy in the ſame ſo far as never to admit any <hi>Diſ<g ref="char:EOLhyphen"/>courſe</hi> with <hi>Con</hi>) being every where viſible in thoſe Let<g ref="char:EOLhyphen"/>ters, and the foundation on which the bloudy deſignes concerning them were built. Yet hath it been in Ma<g ref="char:EOLhyphen"/>ſter <hi>Pryn's</hi> power by one ſlight of hand to conclude the direct contrary to both theſe in the midſt of the whole ſtory that affirms them. For being to tranſlate theſe words of one <hi>Letter [Subolfecit interim Cunaeus ab Domi<g ref="char:EOLhyphen"/>no Archiepiſcopo regi ſideliſsimo totum animum regium eſſe pendulum, &amp;c.]</hi> he makes a <hi>comma</hi> after <hi>ſideliſsimo,</hi> and then renders them after this manner. <hi>In the mean time Cunaeus</hi> (i.e.<hi>Con</hi>) <hi>ſmelling from the Arch biſhop moſt truſty to the King, that the Kings mind was wholly pendulous (or doubtfull) &amp;c.</hi> and in the Margine inſerts his concluſion from thence, that <hi>the Arch-biſhop and he had ſome fami<g ref="char:EOLhyphen"/>liarity and acquaintance at firſt,</hi> and leaves the Reader to learn from his Tranſlation, that the <hi>Kings</hi> mind was wavering and <hi>pendulous,</hi> and (as he puts in) <hi>[doubtfully]</hi> that is ſure in matters of <hi>Religion.</hi> Whereas the moſt clear undoubted rendring of the words is only this, that <hi>Con diſcern'd that the Kings mind depended wholly upon the Arch-biſhop,</hi> which be it true or falſe (all that is ſaid is, that <hi>Con's</hi> ſagacity had found it out) hath nothing in the earth to either of thoſe ſenſes. This particular you may think hath little to do with the buſmeſſe we have now in hand about the <hi>Oxford priviledges,</hi> and I con<g ref="char:EOLhyphen"/>feſſe it hath not, but yet very much to that which I have undertaken to prove, that the <hi>reputation of his writings</hi> hath been ſuch, that it might excuſe any man from the pains of anſwering him; For certainly had it not been
+<pb n="11" facs="tcp:57393:7"/>reſolved (ever ſince Maſter <hi>Noy</hi> promiſed to give <hi>John Taylor's</hi> Works to bear Maſter <hi>Pryn's</hi> company in <hi>Lin<g ref="char:EOLhyphen"/>colns Inne Library</hi>) that his Books went for nothing, his proofs for no arguments, his affirmations for no teſti<g ref="char:EOLhyphen"/>monies, ſuch a forgery as this would never have been permitted thus long to have gone undiſcovered. This I confeſſe to be none of my own obſerving (for truly I have not had ſo many howrs to ſpare, as to play any of them away upon Maſter <hi>Pryn's</hi> works, till this laſt of his came out, wherein I was obliged to think my ſelf con<g ref="char:EOLhyphen"/>cern'd) but have heard it ſo punctually mention'd by a <hi>worthy Doctor</hi> in this town, who did obſerve it, that I am confident it will be found to be a true relation, and that my memory hath not fail'd in this account of it: I love not longer to inſiſt on things that are perſonall to any man, and therefore ſhall adde no more, as to this firſt particular, nor indeed ſhould I have ſaid ſo much, but that it was the prime plain <hi>reaſon,</hi> which I diſcern'd really to move men to think it unfit <hi>to anſwer</hi> this <hi>Book,</hi> meerly becauſe it was Maſter <hi>Pryn's;</hi> whom I think no man among us ever vouchſafed to anſwer ſince the be<g ref="char:EOLhyphen"/>ginning of his writing againſt this <hi>Church</hi> or <hi>Monarchy,</hi> but only Mr. <hi>Widowes</hi> a man by the ſtrangeneſſe of his parts fitted as 'twere on purpoſe to duell with him (as <hi>Donquizote</hi> with the <hi>wind-mil</hi> which no man elſe was <hi>Knight errant</hi> enough to <hi>encounter</hi>) about the <hi>bowing at the Name of</hi> JESUS. <note place="margin">Ut non Compoſiti molius cum Bi<g ref="char:EOLhyphen"/>tho Bacchius.</note>
+            </p>
+            <p>And now Sir that I may not ſeem to have deſign'd a<g ref="char:EOLhyphen"/>ny thing but obedience to your commands, or to deſire in you, or any other, any thing but ſtrict ordinary ju<g ref="char:EOLhyphen"/>ſtice,
+<pb n="12" facs="tcp:57393:8" rendition="simple:additions"/>whilſt you paſſe your judgment in this matter, I have thrown down all I had to ſay as rudely and ſloven<g ref="char:EOLhyphen"/>ly as I could, and by that means deliver'd my ſelf from the danger of incurring you diſpleaſure again for having conſider'd <hi>ſtyle</hi> or <hi>language</hi> in my laſt Letter, which yet had no other ayme then to approve my ſelf,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>
+                  <hi>Your obedient ſervant,</hi> Baſilius Philomuſus.</signed>
+               <dateline>
+                  <hi>Oxon.</hi> 
+                  <date>
+                     <hi>Jan.</hi> 20.</date>
+               </dateline>
+            </closer>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:57393:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
